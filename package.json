@@ -1,0 +1,26 @@
+{
+  "name": "tiny-db",
+  "version": "0.0.0",
+  "description": "Small document database. Create a store of JSON documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AxFab/tiny-db"
+  },
+  "keywords": [
+    "document",
+    "store",
+    "database",
+    "key-value",
+    "mongodb"
+  ],
+  "author": "Fabien B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxFab/tiny-db/issues"
+  },
+  "homepage": "https://github.com/AxFab/tiny-db"
+}
